@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tanguy JOUVIN
-- 🎓 I'm currently a master's student at the [University of Angers](https://bienvenue.univ-angers.fr/fr/index.html).
-- 🌱 I’m currently learning [Angular](https://angular.io/start) and [Sping Boot](https://spring.io/projects/spring-boot).
+- 🎓 I'm currently a software engineer at [Capgemini](https://www.capgemini.com/fr-fr/).
+- 🌱 I’m currently learning [Angular](https://angular.io/start), [Sping Boot](https://spring.io/projects/spring-boot) and [C#](https://learn.microsoft.com/fr-fr/dotnet/csharp/tour-of-csharp/).
 - 📫 How to reach me: [mail](tanguy.jouvin@hotmail.com) or [LinkedIn](https://www.linkedin.com/in/tanguy-jouvin-c/).
 - 🏃‍♂️ During my personal time, I practice running, work out and I play video games 🎮 like Elden Ring.
